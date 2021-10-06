@@ -30,6 +30,6 @@
 
 <br>
 <p align="center">
-![](https://komarev.com/ghpvc/?username=klltx&color=blueviolet)
+<img src="https://komarev.com/ghpvc/?username=klltx" alt="Profile views"/>
 </p>
 <br>
