@@ -1,3 +1,13 @@
+<p align="center">
+  
+|![](https://github-readme-stats.vercel.app/api?username=klltx&theme=tokyonight&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=klltx&layout=compact&theme=tokyonight&langs_count=10)|
+|-|-|
+  
+</p>
+
+![](https://activity-graph.herokuapp.com/graph?username=klltx&theme=react-dark)
+
+<br>
 
 <p align="center">
   <img width="500" src="https://metrics.lecoq.io/klltx" alt="Github Metrics"><br>
@@ -16,17 +26,6 @@
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
 </p>
-
-<br>
-
-<p align="center">
-  
-|![](https://github-readme-stats.vercel.app/api?username=klltx&theme=tokyonight&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=klltx&layout=compact&theme=tokyonight&langs_count=10)|
-|-|-|
-  
-</p>
-
-![](https://activity-graph.herokuapp.com/graph?username=klltx&theme=react-dark)
 
 <br>
 
