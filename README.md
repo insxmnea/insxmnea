@@ -5,9 +5,9 @@
   
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=klltx&theme=react-dark)
-
 <!---
+
+![](https://activity-graph.herokuapp.com/graph?username=klltx&theme=react-dark)
 
 <br>
 
