@@ -1,11 +1,26 @@
-<p align="center">
+
+
+<div align="center">
   
-|![](https://github-readme-stats.vercel.app/api?username=klltx&theme=tokyonight&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=klltx&layout=compact&theme=tokyonight&langs_count=10)|
-|-|-|
+|![](https://github-readme-stats.vercel.app/api?username=klltx&theme=tokyonight&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=klltx&layout=compact&theme=tokyonight&langs_count=8)|
+|:-:|:-:|
   
-</p>
+</div>
+
+
 
 <!---
+
+<div align="center">
+
+
+|![](https://leetcode-stats-six.vercel.app/api?username=klltx&theme=dark)|![](https://github-readme-stackoverflow.vercel.app/?userID=19796606&layout=compact&theme=dark)|
+|:-:|:-:|
+|![](https://github-readme-stats.vercel.app/api?username=klltx&theme=tokyonight&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=klltx&layout=compact&theme=tokyonight&langs_count=8)|
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=klltx&theme=tokyonight&hide_border=true)
+  
+</div>
 
 ![](https://activity-graph.herokuapp.com/graph?username=klltx&theme=react-dark)
 
@@ -33,6 +48,7 @@
 
 <br>
 
-<p align="center">
+<div align="center">
+  <img src="https://www.codewars.com/users/klltx/badges/small" alt="Codewars" />
   <img src="https://komarev.com/ghpvc/?username=klltx" alt="Profile views"/>
-</p>
+</div>
