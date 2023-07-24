@@ -49,6 +49,6 @@
 <br>
 
 <div align="center">
-  <img src="https://www.codewars.com/users/klltx/badges/small" alt="Codewars" />
-  <img src="https://komarev.com/ghpvc/?username=klltx" alt="Profile views"/>
+  <img src="https://www.codewars.com/users/1317n0d3/badges/small" alt="Codewars" />
+  <img src="https://komarev.com/ghpvc/?username=1317n0d3" alt="Profile views"/>
 </div>
