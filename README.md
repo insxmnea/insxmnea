@@ -2,7 +2,7 @@
 
 <div align="center">
   
-|![](https://github-readme-stats.vercel.app/api?username=klltx&theme=tokyonight&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=klltx&layout=compact&theme=tokyonight&langs_count=8)|
+|![](https://github-readme-stats.vercel.app/api?username=1317n0d3&theme=tokyonight&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=1317n0d3&layout=compact&theme=tokyonight&langs_count=8)|
 |:-:|:-:|
   
 </div>
