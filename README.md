@@ -49,7 +49,7 @@
 <br>
 
 <div align="center">
+  <img src="https://wakatime.com/badge/user/018df08f-7cf7-40c9-8e61-28d089536699.svg" alt="Total time coded since Feb 28 2024" />
   <img src="https://www.codewars.com/users/1317n0d3/badges/small" alt="Codewars" />
   <img src="https://komarev.com/ghpvc/?username=1317n0d3" alt="Profile views" />
-  <img src="https://wakatime.com/badge/user/018df08f-7cf7-40c9-8e61-28d089536699.svg" alt="Total time coded since Feb 28 2024" />
 </div>
