@@ -2,7 +2,7 @@
 
 <div align="center">
   
-|![](https://github-readme-stats.vercel.app/api?username=1317n0d3&theme=tokyonight&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=1317n0d3&layout=compact&theme=tokyonight&langs_count=8)|
+|![](https://github-readme-stats.vercel.app/api?username=insxmnea&theme=tokyonight&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=insxmnea&layout=compact&theme=tokyonight&langs_count=8)|
 |:-:|:-:|
   
 </div>
@@ -14,20 +14,20 @@
 <div align="center">
 
 
-|![](https://leetcode-stats-six.vercel.app/api?username=klltx&theme=dark)|![](https://github-readme-stackoverflow.vercel.app/?userID=19796606&layout=compact&theme=dark)|
+|![](https://leetcode-stats-six.vercel.app/api?username=username&theme=dark)|![](https://github-readme-stackoverflow.vercel.app/?userID=19796606&layout=compact&theme=dark)|
 |:-:|:-:|
-|![](https://github-readme-stats.vercel.app/api?username=klltx&theme=tokyonight&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=klltx&layout=compact&theme=tokyonight&langs_count=8)|
+|![](https://github-readme-stats.vercel.app/api?username=username&theme=tokyonight&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight&langs_count=8)|
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=klltx&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight&hide_border=true)
   
 </div>
 
-![](https://activity-graph.herokuapp.com/graph?username=klltx&theme=react-dark)
+![](https://activity-graph.herokuapp.com/graph?username=username&theme=react-dark)
 
 <br>
 
 <p align="center">
-  <img width="500" src="https://metrics.lecoq.io/klltx" alt="Github Metrics"><br>
+  <img width="500" src="https://metrics.lecoq.io/username" alt="Github Metrics"><br>
 </p>
 
 <br>
@@ -52,6 +52,6 @@
   <!---
   <img src="https://wakatime.com/badge/user/018df08f-7cf7-40c9-8e61-28d089536699.svg" alt="Total time coded since Feb 28 2024" />
   -->
-  <img src="https://www.codewars.com/users/1317n0d3/badges/small" alt="Codewars" />
-  <img src="https://komarev.com/ghpvc/?username=1317n0d3" alt="Profile views" />
+  <img src="https://www.codewars.com/users/insxmnea/badges/small" alt="Codewars" />
+  <img src="https://komarev.com/ghpvc/?username=insxmnea" alt="Profile views" />
 </div>
