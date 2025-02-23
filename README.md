@@ -1,10 +1,6 @@
-
-
 <div align="center">
-  
-|![](https://github-readme-stats.vercel.app/api?username=insxmnea&theme=tokyonight&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=insxmnea&layout=compact&theme=tokyonight&langs_count=8)|
-|:-:|:-:|
-  
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=insxmnea&theme=gruvbox" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=insxmnea&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
 </div>
 
 
@@ -44,16 +40,20 @@
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
 </p>
 
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,html,figma,js,pug,react,redux,sass,styledcomponents,tailwind,ts,vite,vitest" />
+</p>
+<br>
 -->
 
-<br>
 
-<div align="center">
   <!---
-  <img src="https://wakatime.com/badge/user/018df08f-7cf7-40c9-8e61-28d089536699.svg" alt="Total time coded since Feb 28 2024" />
-  -->
+<div align="center">
   <img src="https://www.codewars.com/users/insxmnea/badges/small" alt="Codewars" />
-  <!--   
-  <img src="https://komarev.com/ghpvc/?username=insxmnea" alt="Profile views" /> 
+  <img src="https://wakatime.com/badge/user/018df08f-7cf7-40c9-8e61-28d089536699.svg?style=for-the-badge" alt="Total time coded since Feb 28 2024" />
   -->
+  <!--   
+  <img src="https://komarev.com/ghpvc/?username=insxmnea&style=for-the-badge" alt="Profile views" /> 
 </div>
+  -->
