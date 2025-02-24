@@ -1,5 +1,5 @@
 <div align="center">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=insxmnea&theme=gruvbox" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=insxmnea&show_icons=true&theme=gruvbox" />
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=insxmnea&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
 </div>
 
