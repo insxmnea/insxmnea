@@ -1,9 +1,22 @@
 <div align="center">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=insxmnea&show_icons=true&theme=gruvbox" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=insxmnea&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=insxmnea&show_icons=true&theme=gruvbox&hide_border=true">
+        <img height=200 alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=insxmnea&show_icons=true&theme=gruvbox_light&hide_border=true">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=insxmnea&layout=compact&langs_count=8&card_width=320&theme=gruvbox&hide_border=true">
+        <img height=200 alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=insxmnea&layout=compact&langs_count=8&card_width=320&theme=gruvbox_light&hide_border=true">
+    </picture>
 </div>
 
+<!---
+---
+<div align="right">
 
+![](https://www.codewars.com/users/insxmnea/badges/micro)
+![](https://komarev.com/ghpvc/?username=insxmnea&color=9d0006&abbreviated=true&style=flat-square&label=views)
+</div>
+-->
 
 <!---
 
