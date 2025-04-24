@@ -9,14 +9,12 @@
     </picture>
 </div>
 
-<!---
 ---
 <div align="right">
 
 ![](https://www.codewars.com/users/insxmnea/badges/micro)
 ![](https://komarev.com/ghpvc/?username=insxmnea&color=9d0006&abbreviated=true&style=flat-square&label=views)
 </div>
--->
 
 <!---
 
