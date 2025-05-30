@@ -1,7 +1,3 @@
-<head>
-  <link href="styles.css" rel="stylesheet">
-</head>
-
 <div align="center"> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=insxmnea&show_icons=true&theme=gruvbox&hide_border=true">
