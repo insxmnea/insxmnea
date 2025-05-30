@@ -1,70 +1,63 @@
-<div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=insxmnea&show_icons=true&theme=gruvbox&hide_border=true">
-        <img height=200 alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=insxmnea&show_icons=true&theme=gruvbox_light&hide_border=true">
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=insxmnea&layout=compact&langs_count=8&card_width=320&theme=gruvbox&hide_border=true">
-        <img height=200 alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=insxmnea&layout=compact&langs_count=8&card_width=320&theme=gruvbox_light&hide_border=true">
-    </picture>
+<head>
+  <link href="styles.css" rel="stylesheet">
+</head>
+
+<div align="center"> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=insxmnea&show_icons=true&theme=gruvbox&hide_border=true">
+    <img height=200 alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=insxmnea&show_icons=true&theme=gruvbox_light&hide_border=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=insxmnea&layout=compact&langs_count=8&card_width=320&theme=gruvbox&hide_border=true">
+    <img height=200 alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=insxmnea&layout=compact&langs_count=8&card_width=320&theme=gruvbox_light&hide_border=true">
+  </picture>
 </div>
+
+<h2 align="left">Contacts</h2>
+
+<div>
+  <a href="https://t.me/insxmnea" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+  </a>
+  <a href="https://hh.ru/resume/e70d6458ff0958a3d00039ed1f375631366e37" target="_blank">
+    <img src="https://img.shields.io/badge/my_resume-111111?style=for-the-badge&logo=read.cv&logoColor=white" alt="resume"/>
+  </a>
+</div>
+
+<!-- <h2>Projects</h2>
+
+<div>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+</div>
+
+<p>
+  <a href=''>
+    <img width="24%" src="" />
+  </a>
+</p>
+<hr/> -->
+
+<h2>Education</h2>
+
+- 🎓 Bachelor degree in Information systems and technologies - [Yuri Gagarin State Technical University of Saratov](https://www.sstu.ru/)
+- 📜 [JS / Front-end Course](https://rs.school/courses/javascript)
+- 📜 [React Course](https://rs.school/courses/reactjs) - [certificate](https://app.rs.school/certificate/riyrdlzi)
+
+<h2>Sertifications</h2>
+
+- [Introduction to Career Skills in Software Development](https://www.linkedin.com/learning/certificates/9e337fd0bbaca3a3e046f1dfe0c936eaa805a21d8d312abd3dd8d37292517506?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bz%2FfFtR%2BLQ4yORXh5rth6EQ%3D%3D)
+
+<h2>Honors</h2>
+
+- [LeetCode](https://leetcode.com/u/insxmnea/)
+- [HackerRank](https://www.hackerrank.com/profile/kostya_svetasho1)
+- [Codewars](https://www.codewars.com/users/insxmnea)
 
 ---
-<div align="right">
 
-![](https://www.codewars.com/users/insxmnea/badges/micro)
-![](https://komarev.com/ghpvc/?username=insxmnea&color=9d0006&abbreviated=true&style=flat-square&label=views)
-</div>
-
-<!---
-
-<div align="center">
-
-
-|![](https://leetcode-stats-six.vercel.app/api?username=username&theme=dark)|![](https://github-readme-stackoverflow.vercel.app/?userID=19796606&layout=compact&theme=dark)|
-|:-:|:-:|
-|![](https://github-readme-stats.vercel.app/api?username=username&theme=tokyonight&show_icons=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight&langs_count=8)|
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight&hide_border=true)
-  
-</div>
-
-![](https://activity-graph.herokuapp.com/graph?username=username&theme=react-dark)
-
-<br>
-
-<p align="center">
-  <img width="500" src="https://metrics.lecoq.io/username" alt="Github Metrics"><br>
-</p>
-
-<br>
-
-<p align="center">
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="30" height="30"/>
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="30" height="30"/>
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/>
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg alt=sass width="30" height="30"/>
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg alt=react width="30" height="30"/>
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="30" height="30"/>
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg alt=mongodb width="30" height="30"/>
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
-</p>
-
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,html,figma,js,pug,react,redux,sass,styledcomponents,tailwind,ts,vite,vitest" />
-</p>
-<br>
--->
-
-
-  <!---
-<div align="center">
-  <img src="https://www.codewars.com/users/insxmnea/badges/small" alt="Codewars" />
-  <img src="https://wakatime.com/badge/user/018df08f-7cf7-40c9-8e61-28d089536699.svg?style=for-the-badge" alt="Total time coded since Feb 28 2024" />
-  -->
-  <!--   
-  <img src="https://komarev.com/ghpvc/?username=insxmnea&style=for-the-badge" alt="Profile views" /> 
-</div>
-  -->
+<img align="left" src="https://www.codewars.com/users/insxmnea/badges/micro" alt="codewars" />
+<img align="right" src="https://komarev.com/ghpvc/?username=insxmnea&color=9d0006&abbreviated=true&style=flat-square&label=views" alt="views" />
