@@ -41,9 +41,12 @@
 
 - 🎓 Bachelor degree in Information systems and technologies - [Yuri Gagarin State Technical University of Saratov](https://www.sstu.ru/)
 - 📜 [JS / Front-end Course](https://rs.school/courses/javascript)
-- 📜 [React Course](https://rs.school/courses/reactjs) - [certificate](https://app.rs.school/certificate/riyrdlzi)
+- 📜 [React Course](https://rs.school/courses/reactjs)
 
-<!-- <h2>Sertifications</h2> -->
+<h2>Sertifications</h2>
+
+- [Web development for beginners: HTML and CSS](https://stepik.org/cert/289886?lang=en)
+- [ THE ROLLING SCOPES SCHOOL REACT 2024 Q3 (REACT)](https://app.rs.school/certificate/riyrdlzi)
 
 <h2>Honors</h2>
 
