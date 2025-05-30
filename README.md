@@ -9,7 +9,7 @@
   </picture>
 </div>
 
-<h2 align="left">Contacts</h2>
+<h2>Contacts</h2>
 
 <div>
   <a href="https://t.me/insxmnea" target="_blank">
