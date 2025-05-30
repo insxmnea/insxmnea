@@ -47,9 +47,7 @@
 - 📜 [JS / Front-end Course](https://rs.school/courses/javascript)
 - 📜 [React Course](https://rs.school/courses/reactjs) - [certificate](https://app.rs.school/certificate/riyrdlzi)
 
-<h2>Sertifications</h2>
-
-- [Introduction to Career Skills in Software Development](https://www.linkedin.com/learning/certificates/9e337fd0bbaca3a3e046f1dfe0c936eaa805a21d8d312abd3dd8d37292517506?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bz%2FfFtR%2BLQ4yORXh5rth6EQ%3D%3D)
+<!-- <h2>Sertifications</h2> -->
 
 <h2>Honors</h2>
 
