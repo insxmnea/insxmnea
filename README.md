@@ -20,7 +20,7 @@
   </a>
 </div>
 
-<h2>Projects</h2>
+<!-- <h2>Projects</h2>
 
 <div>
 
@@ -86,7 +86,7 @@
   <a href='https://github.com/insxmnea/wb-l0'>
     <img style="object-fit: cover; height: 90; width: 32%;object-position: top center;" src="./images/wb-l0.png" />
   </a>
-</p>
+</p> -->
 
 <h2>Education</h2>
 
