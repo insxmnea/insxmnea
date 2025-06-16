@@ -20,7 +20,7 @@
   </a>
 </div>
 
-<!-- <h2>Projects</h2>
+<h2>Projects</h2>
 
 <div>
 
@@ -33,10 +33,10 @@
 
 <p>
   <a href='https://github.com/insxmnea/graphiql-app'>
-    <img style="object-fit: cover; height: 90; width: 32%;object-position: top center;" src="./images/graphiql-app.jpg" />
+    <img width="32%" src="./images/graphiql-app.jpg" />
   </a>
   <a href='https://github.com/insxmnea/insxmnea-REACT2024Q3'>
-    <img style="object-fit: cover; height: 90; width: 32%;object-position: top center;" src="./images/insxmnea-REACT2024Q3.jpg" />
+    <img width="32%" src="./images/insxmnea-REACT2024Q3.jpg" />
   </a>
 </p>
 
@@ -52,16 +52,16 @@
 
 <p>
   <a href='https://github.com/insxmnea/telecom-chat'>
-    <img style="object-fit: cover; height: 90; width: 32%; object-position: top center;" src="./images/telecom-chat.jpg" />
+    <img width="32%" src="./images/telecom-chat.jpg" />
   </a>
   <a href='https://github.com/insxmnea/rick-morty-characters'>
-    <img style="object-fit: cover; height: 90; width: 32%;object-position: top center;" src="./images/rick-morty-characters.jpg" />
+    <img width="32%" src="./images/rick-morty-characters.jpg" />
   </a>
   <a href='https://github.com/insxmnea/divergent-blog'>
-    <img style="object-fit: cover; height: 90; width: 32%;object-position: top center;" src="./images/divergent-blog.jpg" />
+    <img width="32%" src="./images/divergent-blog.jpg" />
   </a>
   <a href='https://github.com/insxmnea/neoflex-invite-test'>
-    <img style="object-fit: cover; height: 90; width: 32%;object-position: top center;" src="./images/neoflex-invite-test.png" />
+    <img width="32%" src="./images/neoflex-invite-test.jpg" />
   </a>
 </p>
 
@@ -78,15 +78,15 @@
 
 <p>
   <a href='https://github.com/insxmnea/beauty-landing-page'>
-    <img style="object-fit: cover; height: 90; width: 32%;object-position: top center;" src="./images/beauty-landing-page.png" />
+    <img width="32%" src="./images/beauty-landing-page.jpg" />
   </a>
   <a href='https://github.com/insxmnea/conquest-landing-page'>
-    <img style="object-fit: cover; height: 90; width: 32%;object-position: top center;" src="./images/conquest-landing-page.png" />
+    <img width="32%" src="./images/conquest-landing-page.jpg" />
   </a>
   <a href='https://github.com/insxmnea/wb-l0'>
-    <img style="object-fit: cover; height: 90; width: 32%;object-position: top center;" src="./images/wb-l0.png" />
+    <img width="32%" src="./images/wb-l0.jpg" />
   </a>
-</p> -->
+</p>
 
 <h2>Education</h2>
 
