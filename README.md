@@ -1,11 +1,11 @@
 <div align="center"> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=insxmnea&show_icons=true&theme=gruvbox&hide_border=true">
-    <img height=200 alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=insxmnea&show_icons=true&theme=gruvbox_light&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=insxmnea&show_icons=true&theme=nord&hide_border=true">
+    <img height=200 alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=insxmnea&show_icons=true&theme=graywhite&hide_border=true">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=insxmnea&layout=compact&langs_count=8&card_width=320&theme=gruvbox&hide_border=true">
-    <img height=200 alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=insxmnea&layout=compact&langs_count=8&card_width=320&theme=gruvbox_light&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=insxmnea&layout=compact&langs_count=8&card_width=320&theme=nord&hide_border=true">
+    <img height=200 alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=insxmnea&layout=compact&langs_count=8&card_width=320&theme=graywhite&hide_border=true">
   </picture>
 </div>
 
@@ -20,22 +20,73 @@
   </a>
 </div>
 
-<!-- <h2>Projects</h2>
+<h2>Projects</h2>
 
 <div>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Next.js](https://img.shields.io/badge/next.js-282828.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-282828.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Vite](https://img.shields.io/badge/vite-282828.svg?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Vitest](https://img.shields.io/badge/vitest-282828.svg?style=for-the-badge&logo=vitest&logoColor=6E9F18)
 
 </div>
 
 <p>
-  <a href=''>
-    <img width="24%" src="" />
+  <a href='https://github.com/insxmnea/graphiql-app'>
+    <img style="object-fit: cover; height: 90; width: 32%;object-position: top center;" src="./images/graphiql-app.jpg" />
+  </a>
+  <a href='https://github.com/insxmnea/insxmnea-REACT2024Q3'>
+    <img style="object-fit: cover; height: 90; width: 32%;object-position: top center;" src="./images/insxmnea-REACT2024Q3.jpg" />
   </a>
 </p>
-<hr/> -->
+
+<hr/>
+
+<div>
+
+![React](https://img.shields.io/badge/react-282828.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-282828.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Sass](https://img.shields.io/badge/sass-282828.svg?style=for-the-badge&logo=sass&logoColor=CC6699)
+
+</div>
+
+<p>
+  <a href='https://github.com/insxmnea/telecom-chat'>
+    <img style="object-fit: cover; height: 90; width: 32%; object-position: top center;" src="./images/telecom-chat.jpg" />
+  </a>
+  <a href='https://github.com/insxmnea/rick-morty-characters'>
+    <img style="object-fit: cover; height: 90; width: 32%;object-position: top center;" src="./images/rick-morty-characters.jpg" />
+  </a>
+  <a href='https://github.com/insxmnea/divergent-blog'>
+    <img style="object-fit: cover; height: 90; width: 32%;object-position: top center;" src="./images/divergent-blog.jpg" />
+  </a>
+  <a href='https://github.com/insxmnea/neoflex-invite-test'>
+    <img style="object-fit: cover; height: 90; width: 32%;object-position: top center;" src="./images/neoflex-invite-test.png" />
+  </a>
+</p>
+
+<hr/>
+
+<div>
+
+![HTML5](https://img.shields.io/badge/html5-282828.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/css3-282828.svg?style=for-the-badge&logo=css&logoColor=%231572B6)
+![JavaScript](https://img.shields.io/badge/javascript-282828.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Pixel Perfect](https://img.shields.io/badge/pixel_perfect-282828.svg?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+</div>
+
+<p>
+  <a href='https://github.com/insxmnea/beauty-landing-page'>
+    <img style="object-fit: cover; height: 90; width: 32%;object-position: top center;" src="./images/beauty-landing-page.png" />
+  </a>
+  <a href='https://github.com/insxmnea/conquest-landing-page'>
+    <img style="object-fit: cover; height: 90; width: 32%;object-position: top center;" src="./images/conquest-landing-page.png" />
+  </a>
+  <a href='https://github.com/insxmnea/wb-l0'>
+    <img style="object-fit: cover; height: 90; width: 32%;object-position: top center;" src="./images/wb-l0.png" />
+  </a>
+</p>
 
 <h2>Education</h2>
 
@@ -54,7 +105,7 @@
 - [HackerRank](https://www.hackerrank.com/profile/kostya_svetasho1)
 - [Codewars](https://www.codewars.com/users/insxmnea)
 
----
+<hr/>
 
 <img align="left" src="https://www.codewars.com/users/insxmnea/badges/micro" alt="codewars" />
 <img align="right" src="https://komarev.com/ghpvc/?username=insxmnea&color=9d0006&abbreviated=true&style=flat-square&label=views" alt="views" />
