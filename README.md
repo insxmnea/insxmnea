@@ -77,7 +77,7 @@
 </div>
 
 <p>
-  <a href='https://github.com/insxmnea/beauty-landing-page' target="_blank">
+  <a href='https://github.com/insxmnea/beauty-landing-page'>
     <img width="32%" src="./images/beauty-landing-page.jpg" />
   </a>
   <a href='https://github.com/insxmnea/conquest-landing-page'>
