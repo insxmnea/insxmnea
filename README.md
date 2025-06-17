@@ -57,11 +57,14 @@
   <a href='https://github.com/insxmnea/rick-morty-characters'>
     <img width="32%" src="./images/rick-morty-characters.jpg" />
   </a>
+  <a href='https://github.com/insxmnea/neoflex-invite-test'>
+    <img width="32%" src="./images/neoflex-invite-test.jpg" />
+  </a>
   <a href='https://github.com/insxmnea/divergent-blog'>
     <img width="32%" src="./images/divergent-blog.jpg" />
   </a>
-  <a href='https://github.com/insxmnea/neoflex-invite-test'>
-    <img width="32%" src="./images/neoflex-invite-test.jpg" />
+  <a href='https://github.com/insxmnea/todo-react'>
+    <img width="32%" src="./images/todo-react.jpg" />
   </a>
 </p>
 
