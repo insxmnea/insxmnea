@@ -24,6 +24,22 @@
 
 <div>
 
+![Nuxt](https://img.shields.io/badge/nuxt-282828.svg?style=for-the-badge&logo=nuxt&logoColor=00DC82)
+![TypeScript](https://img.shields.io/badge/typescript-282828.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Sass](https://img.shields.io/badge/sass-282828.svg?style=for-the-badge&logo=sass&logoColor=CC6699)
+
+</div>
+
+<p>
+  <a href=''>
+    <img width="32%" src="./images/los-bio.jpg" />
+  </a>
+</p>
+
+<hr/>
+
+<div>
+
 ![Next.js](https://img.shields.io/badge/next.js-282828.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-282828.svg?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Vite](https://img.shields.io/badge/vite-282828.svg?style=for-the-badge&logo=vite&logoColor=646CFF)
