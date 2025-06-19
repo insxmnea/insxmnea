@@ -31,7 +31,7 @@
 </div>
 
 <p>
-  <a href=''>
+  <a href='https://github.com/insxmnea/los-bio'>
     <img width="32%" src="./images/los-bio.jpg" />
   </a>
 </p>
