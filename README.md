@@ -112,6 +112,7 @@
 <h2>Education</h2>
 
 - 🎓 Bachelor degree in Information systems and technologies - [Yuri Gagarin State Technical University of Saratov](https://www.sstu.ru/)
+- 🎓 Master's degree in Information systems and technologies - [Yuri Gagarin State Technical University of Saratov](https://www.sstu.ru/)
 - 📜 [JS / Front-end Course](https://rs.school/courses/javascript)
 - 📜 [React Course](https://rs.school/courses/reactjs)
 
