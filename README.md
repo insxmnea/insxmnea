@@ -32,7 +32,7 @@
 
 <p>
   <a href='https://github.com/insxmnea/los-bio'>
-    <img width="32%" src="./images/los-bio.jpg" />
+    <img width="32%" src="./images/los-bio.webp" />
   </a>
 </p>
 
@@ -49,13 +49,13 @@
 
 <p>
   <a href='https://github.com/insxmnea/telecom-chat'>
-    <img width="32%" src="./images/telecom-chat.jpg" />
+    <img width="32%" src="./images/telecom-chat.webp" />
   </a>
   <a href='https://github.com/insxmnea/graphiql-app'>
-    <img width="32%" src="./images/graphiql-app.jpg" />
+    <img width="32%" src="./images/graphiql-app.webp" />
   </a>
   <a href='https://github.com/insxmnea/insxmnea-REACT2024Q3'>
-    <img width="32%" src="./images/insxmnea-REACT2024Q3.jpg" />
+    <img width="32%" src="./images/insxmnea-REACT2024Q3.webp" />
   </a>
 </p>
 
@@ -70,17 +70,23 @@
 </div>
 
 <p>
+  <a href='https://github.com/insxmnea/user-management-app'>
+    <img width="32%" src="./images/user-management-app.webp" />
+  </a>
+  <a href='https://github.com/insxmnea/task-manager'>
+    <img width="32%" src="./images/task-manager.webp" />
+  </a>
   <a href='https://github.com/insxmnea/rick-morty-characters'>
-    <img width="32%" src="./images/rick-morty-characters.jpg" />
+    <img width="32%" src="./images/rick-morty-characters.webp" />
   </a>
   <a href='https://github.com/insxmnea/neoflex-invite-test'>
-    <img width="32%" src="./images/neoflex-invite-test.jpg" />
+    <img width="32%" src="./images/neoflex-invite-test.webp" />
   </a>
   <a href='https://github.com/insxmnea/divergent-blog'>
-    <img width="32%" src="./images/divergent-blog.jpg" />
+    <img width="32%" src="./images/divergent-blog.webp" />
   </a>
   <a href='https://github.com/insxmnea/todo-react'>
-    <img width="32%" src="./images/todo-react.jpg" />
+    <img width="32%" src="./images/todo-react.webp" />
   </a>
 </p>
 
@@ -97,13 +103,13 @@
 
 <p>
   <a href='https://github.com/insxmnea/beauty-landing-page'>
-    <img width="32%" src="./images/beauty-landing-page.jpg" />
+    <img width="32%" src="./images/beauty-landing-page.webp" />
   </a>
   <a href='https://github.com/insxmnea/conquest-landing-page'>
-    <img width="32%" src="./images/conquest-landing-page.jpg" />
+    <img width="32%" src="./images/conquest-landing-page.webp" />
   </a>
   <a href='https://github.com/insxmnea/wb-l0'>
-    <img width="32%" src="./images/wb-l0.jpg" />
+    <img width="32%" src="./images/wb-l0.webp" />
   </a>
 </p>
 
@@ -119,7 +125,8 @@
 <h2>Sertifications</h2>
 
 - [Web development for beginners: HTML and CSS](https://stepik.org/cert/289886?lang=en)
-- [ THE ROLLING SCOPES SCHOOL REACT 2024 Q3 (REACT)](https://app.rs.school/certificate/riyrdlzi)
+- [THE ROLLING SCOPES SCHOOL REACT 2024 Q3 (REACT)](https://app.rs.school/certificate/riyrdlzi)
+- [T1. Frontend Development (JS+React)](https://davtb-teachbase.api.eric.s3storage.ru/system/coursestat/116770/cert/164c695e20b12150fd484cf0ab7a999e.pdf)
 
 <h2>Honors</h2>
 
