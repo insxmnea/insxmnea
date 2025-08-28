@@ -70,6 +70,9 @@
 </div>
 
 <p>
+  <a href='https://github.com/insxmnea/ds-checker'>
+    <img width="32%" src="./images/ds-checker.webp" />
+  </a>
   <a href='https://github.com/insxmnea/user-management-app'>
     <img width="32%" src="./images/user-management-app.webp" />
   </a>
