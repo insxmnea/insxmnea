@@ -130,6 +130,7 @@
 - [Web development for beginners: HTML and CSS](https://stepik.org/cert/289886?lang=en)
 - [THE ROLLING SCOPES SCHOOL REACT 2024 Q3 (REACT)](https://app.rs.school/certificate/riyrdlzi)
 - [T1. Frontend Development (JS+React)](https://davtb-teachbase.api.eric.s3storage.ru/system/coursestat/116770/cert/164c695e20b12150fd484cf0ab7a999e.pdf)
+- [T1. Frontend Development (JS+React) - The team stage](https://github.com/insxmnea/insxmnea/blob/main/certificates/t1-certificate-2.pdf)
 
 <h2>Honors</h2>
 
