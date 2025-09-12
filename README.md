@@ -125,7 +125,7 @@
 - 📜 [JS / Front-end Course](https://rs.school/courses/javascript)
 - 📜 [React Course](https://rs.school/courses/reactjs)
 
-<h2>Sertifications</h2>
+<h2>Certifications</h2>
 
 - [Web development for beginners: HTML and CSS](https://stepik.org/cert/289886?lang=en)
 - [THE ROLLING SCOPES SCHOOL REACT 2024 Q3 (REACT)](https://app.rs.school/certificate/riyrdlzi)
