@@ -1,14 +1,3 @@
-<div align="center"> 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=insxmnea&show_icons=true&theme=nord&hide_border=true">
-    <img height=200 alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=insxmnea&show_icons=true&theme=graywhite&hide_border=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=insxmnea&layout=compact&langs_count=8&card_width=320&theme=nord&hide_border=true">
-    <img height=200 alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=insxmnea&layout=compact&langs_count=8&card_width=320&theme=graywhite&hide_border=true">
-  </picture>
-</div>
-
 <h2>Contacts</h2>
 
 <div>
