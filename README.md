@@ -1,14 +1,3 @@
-<h2>Contacts</h2>
-
-<div>
-  <a href="https://t.me/insxmnea" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
-  </a>
-  <a href="https://hh.ru/resume/e70d6458ff0958a3d00039ed1f375631366e37" target="_blank">
-    <img src="https://img.shields.io/badge/my_resume-111111?style=for-the-badge&logo=read.cv&logoColor=white" alt="resume"/>
-  </a>
-</div>
-
 <h2>Projects</h2>
 
 <div>
